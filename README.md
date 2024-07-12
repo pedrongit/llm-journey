@@ -12,7 +12,7 @@ This project is a personal documentation of my learning journey with LLMs. It co
 ### Project 1: Fine-tuning Flan-T5 for Summarization
 - **Description**: This project focuses on fine-tuning the Flan-T5-base model using the dialogsum dataset to create effective summarizations. I am exploring multiple approaches including instruct fine-tuning and PEFT (Prompt Engineering and Fine-Tuning) to enhance model performance and adaptability.
 - **Technologies Used**: Flan-T5, DiagSumm, Hugging Face Transformers, Python.
-- **[Link to Project](URL_to_project)**
+- **[Link to Project](https://github.com/pedrongit/llm-journey/blob/main/fine_tuning_and_peft.ipynb)**
 
 ## Learning Resources
 
